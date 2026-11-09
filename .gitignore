@@ -1,0 +1,12 @@
+.venv/
+.build-venv/
+.pio/
+**/.pio/
+build/
+dist/
+__pycache__/
+*.pyc
+*.spec
+firmware/src/ota_config.h
+*.log
+recordings/

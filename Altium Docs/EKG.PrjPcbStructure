@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Analog frontend.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analog frontend.SchDoc|FileName=Connectors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Analog frontend.SchDoc|FileName=Digital circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog frontend.SchDoc|FileName=Power supply.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog frontend.SchDoc|FileName=Right leg drive.SchDoc|SheetNumber=4
